@@ -1,1 +1,1 @@
-![Tampilan Website](preview.png)
+![Tampilan Website](Tampilan.png)
